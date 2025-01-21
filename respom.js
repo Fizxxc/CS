@@ -47,7 +47,7 @@ function sendMessage() {
         } else if (message.toLowerCase().includes('info')) {
             response = 'Untuk informasi lengkap, silakan hubungi <a href="https://wa.me/6285776568948" target="_blank">KOKOCII</a> Di Whatsapp.';
         } else if (message.toLowerCase().includes('form')) {
-            response = 'Anda bisa menghubungi kami melalui WhatsApp di <a href="https://wa.me/6285776568948" target="_blank">WhatsApp Kokocii</a>.';
+            response = 'Anda bisa menghubungi kami melalui WhatsApp di <a href="report.html" target="_blank">Form Report Kokocii</a>.';
         } else {
             response = 'Maaf, saya tidak mengerti. Ketik info untuk menghubungi admin KOKOCII, Dan Ketik form untuk mendapatkan form report.';
         }
